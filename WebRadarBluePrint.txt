@@ -1,4 +1,4 @@
-<?php echo "aaa"; ?>
+
 <HTML>
 
 <meta http-equiv="refresh" content="0.1">
@@ -9,6 +9,8 @@
 		<canvas id="testCanvas" width="512" height="512" class="coveringCanvas"></canvas>
     </div>
 </div>
+
+<?php echo "aaa"; ?>
 
 
 <style type="text/css">
