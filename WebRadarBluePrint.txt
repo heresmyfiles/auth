@@ -1,3 +1,4 @@
+<?php
 <HTML>
 
 <meta http-equiv="refresh" content="0.1">
@@ -38,5 +39,6 @@ ctx.font='10px Arial'
 ctx.stroke();
 </script>
 
-
+echo "aaa";
 </HTML>
+?>
