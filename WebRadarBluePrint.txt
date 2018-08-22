@@ -32,8 +32,8 @@
 <script>
 var c = document.getElementById("testCanvas");
 var ctx = c.getContext("2d");
-ctx.strokeStyle='#13F6F6';
-ctx.font='20px Arial'
+ctx.strokeStyle='#f613d7';
+ctx.font='10px Arial'
 ----this----
 ctx.stroke();
 </script>
